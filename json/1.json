@@ -1,0 +1,23 @@
+{
+	"id":"1",
+	"face_profiles":
+	[
+		{
+			"id":"00",
+			"rotating":true,
+			"rotation":"2",
+			"potential_neighbours":[
+				10, 11, 21, 30, 31, 30, 40
+			]
+		},
+		{
+			"id":"01",
+			"rotating":true,
+			"rotation":"3",
+			"potential_neighbours":[
+				11, 12, 10, 21, 30, 31, 32, 40
+			]
+		}
+		
+	]
+}

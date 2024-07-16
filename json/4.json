@@ -1,0 +1,22 @@
+{
+	"id":"4",
+	"face_profiles":
+	[
+		{
+			"id":"00",
+			"rotating":true,
+			"rotation":"0",
+			"potential_neighbours":
+				[10, 11, 21, 30, 32, 33, 40
+			]
+		},
+		{
+			"id":"01",
+			"rotating":true,
+			"rotation":"1",
+			"potential_neighbours":
+				[11, 12, 20, 30, 31, 33, 40
+			]
+		}
+	]
+}

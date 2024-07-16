@@ -1,0 +1,35 @@
+{
+	"id":"2",
+	"face_profiles":
+	[
+		{
+			"id":"00",
+			"rotating":true,
+			"rotation":"0",
+			"potential_neighbours":
+				[102, 103, 201, 300, 301, 303, 400
+			]
+		},
+		{
+			"id":"01",
+			"rotating":true,
+			"rotation":"1",
+			"potential_neighbours":[
+				100, 103, 200, 300, 301, 302, 400]
+		},
+		{
+			"id":"02",
+			"rotating":true,
+			"rotation":"2",
+			"potential_neighbours":[
+				100, 101, 201, 301, 302, 303, 400]
+		},
+		{
+			"id":"03",
+			"rotating":true,
+			"rotation":"3",
+			"potential_neighbours":[
+				101, 102, 200, 300, 302, 303, 400]
+		}
+	]
+}
